@@ -13,9 +13,6 @@ I blend web design, modern frontend engineering. 🚗✨
 ---
 
 #### 🔍 Current Focus
-Designing and developing data-driven interfaces using Google Analytics, 
-and exploring Web3 integrations for next-generation user experiences.
-
 - 📊 UI development for analytics dashboards powered by Google Analytics  
 - 🧩 Creating intuitive data visualization flows  
 - 🌐 Exploring Web3 features for interactive, decentralized user experiences
@@ -23,21 +20,24 @@ and exploring Web3 integrations for next-generation user experiences.
 
 ---
 
-## 🧰 Tech Stack
+#### 🧰 Tech Stack
 - **Frontend:** HTML, CSS (Tailwind), JavaScript, TypeScript, Next.js  
 - **Backend / Infra:** Firebase, Vercel  
-- **Design:** Figma  
-- **AI:** Gemini API, OpenAI API, LangChain  
+- **Design:** Figma, Canva, Studio
 
 ---
 
-## 📚 What I'm Learning Now
-- Building collaborative AI tools  
-- Improving developer-friendly UI flows  
-- Automating marketing operations using AI 🚀  
+#### 📚 What I'm Learning Now
+- Building collaborative Ethereum.org  
 
 ---
 
-## 🌐 Let’s Connect
-Always happy to collaborate on AI × frontend projects, UI work, or anything automotive-related.  
+#### 🌐 Let’s Connect
+Always happy to collaborate on frontend projects, UI work.  
 Feel free to reach out!
+
+- Email: sleepycat12341013@gmail.com
+- X: https://x.com/sleepycat171036
+- YouTube: https://www.youtube.com/@catsleepy-m7p
+- LinkedIn: https://www.linkedin.com/in/tomoyo-hirayama-6587a1391/
+
