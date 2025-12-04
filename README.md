@@ -1,18 +1,43 @@
-## Hi there 👋
+#### 👋 Hi, I'm Cat!
 
-<!--
-**sleepycat12341013/sleepycat12341013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A frontend developer and digital marketer working in the used-car industry in Japan.  
+I blend web design, modern frontend engineering. 🚗✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 Contact me
--**Email**: sleepycat12341013@gmail.com
--**LinkedIn**: https://www.linkedin.com/in/tomoyo-hirayama-6587a1391/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 What I Do
+- ⚡ **Frontend Development** with HTML, CSS, JavaScript, Next.js  
+- 🎨 **UI/UX Design** I have thair experience 11 years. 
+- 🔥 **Serverless & Realtime Apps** using Firebase  
+
+---
+
+#### 🔍 Current Focus
+Designing and developing data-driven interfaces using Google Analytics, 
+and exploring Web3 integrations for next-generation user experiences.
+
+- 📊 UI development for analytics dashboards powered by Google Analytics  
+- 🧩 Creating intuitive data visualization flows  
+- 🌐 Exploring Web3 features for interactive, decentralized user experiences
+
+
+---
+
+## 🧰 Tech Stack
+- **Frontend:** HTML, CSS (Tailwind), JavaScript, TypeScript, Next.js  
+- **Backend / Infra:** Firebase, Vercel  
+- **Design:** Figma  
+- **AI:** Gemini API, OpenAI API, LangChain  
+
+---
+
+## 📚 What I'm Learning Now
+- Building collaborative AI tools  
+- Improving developer-friendly UI flows  
+- Automating marketing operations using AI 🚀  
+
+---
+
+## 🌐 Let’s Connect
+Always happy to collaborate on AI × frontend projects, UI work, or anything automotive-related.  
+Feel free to reach out!
