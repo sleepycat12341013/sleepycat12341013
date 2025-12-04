@@ -37,6 +37,7 @@ Always happy to collaborate on frontend projects, UI work.
 Feel free to reach out!
 
 - Email: sleepycat12341013@gmail.com
+- Portfolio site: https://my-portfolio-mu-ten-45.vercel.app/
 - X: https://x.com/sleepycat171036
 - YouTube: https://www.youtube.com/@catsleepy-m7p
 - LinkedIn: https://www.linkedin.com/in/tomoyo-hirayama-6587a1391/
